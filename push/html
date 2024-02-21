@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Portfolio</title>
+</head>
+<body>
+
+<nav>
+	<a href="#home">Home</a> | 
+	<a href="#about">About</a> |
+	<a href="#projects">Projects</a>
+</nav>
+
+<h1 id="home">Home</h1>
+<p>Welcome to my portfolio website!</p>
+
+<h2 id="about">About</h2>
+<p>I am a web developer with skills in HTML, CSS, JavaScript, and more.</p>
+
+<h2 id="projects">Projects</h2>
+<ul>
+	<li>Calculator App</li>
+	<li>To-Do List</li> 
+	<li>Weather Dashboard</li>
+</ul>
+
+</body>
+</html>
+
+
+
